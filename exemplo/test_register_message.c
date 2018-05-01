@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <errno.h>
-#include "sys_register_info.h"
+#include "sys_register_message.h"
 
 int main( int argc, char *argv[ ] ){
 	int err = syscall(357, argv[1], argv[2], strlen(argv[2]));
