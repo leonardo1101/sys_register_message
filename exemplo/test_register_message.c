@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <errno.h>
-#include "sys_register_info.h"
+#include "sys_register_message.h"
 
 int main( int argc, char *argv[ ] ){
     int cont;
