@@ -1,5 +1,5 @@
 ## Introdução
-O objetivo desse trabalho é implementar uma chamada de sistema que receba ao menos um parâmetro e que trabalha com pelo menos um elemento do sistema operacional. Para isso, o grupo implementou uma syscall que recebe como parâmetro um caminho, uma mensagem e o tamanho de caracteres e cria um arquivo no caminho com a mensagem recebida.
+O objetivo desse trabalho é implementar uma chamada de sistema que receba ao menos um parâmetro e que trabalhe com pelo menos um elemento do sistema operacional. Para isso, o grupo implementou uma syscall que recebe como parâmetro um caminho, uma mensagem e o tamanho de caracteres e cria um arquivo no caminho com a mensagem recebida.
 
 Para implementação do trabalho, foi utilizado o Kernel Linux versão 3.17.2, e a imagem de sistema DC_SO.img fornecida em aula.
 
