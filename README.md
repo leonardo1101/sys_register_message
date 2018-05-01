@@ -41,9 +41,9 @@ Para testar a implementação da syscall, realizamos os seguintes passos:
     ```bash
     $ cat /dev/hdb > test_register_message 
     $ chmod +x test_register_message
-    $ ./test_register_message /root/arquivoComMensagem Mensagem!
+    $ ./test_register_message /root/arquivoComMensagem Posso escrever uma mensagem!
     ```
-   A parte "/root/arquivoComMensagem" pode ser substituída por qualquer caminho desejado e "Mensagem!" pode ser subtituída por qualquer mensagem desejada, sem conter espaços.
+   A parte "/root/arquivoComMensagem" pode ser substituída por qualquer caminho desejado e "Posso escrever uma mensagem!" pode ser subtituída por qualquer mensagem desejada de até 350 caracteres.
    
 ## Realizado pelos alunos:
 * Leonardo de Oliveira Peralta - 726556
