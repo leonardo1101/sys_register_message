@@ -17,7 +17,7 @@ Para testar a implementação da syscall, realizamos os seguintes passos:
     ```
 4. Incluir o código **message.c** no diretório *linux-3.17.2/arch/x86/kernel/*.
 
-5. Modificar o Makefile da pasta *linux-3.17.2/arch/x86/kernel/*, para que o nosso arquivo **info.c** seja compilado com o kernel, incluindo a linha:  
+5. Modificar o Makefile da pasta *linux-3.17.2/arch/x86/kernel/*, para que o nosso arquivo **message.c** seja compilado com o kernel, incluindo a linha:  
     `obj-y	+=	message.o`
 
 6. Acessar a pasta *linux-3.17.2/* e compilar o kernel, com o comando:  
