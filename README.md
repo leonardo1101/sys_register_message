@@ -43,4 +43,4 @@ Para testar a implementação da syscall, realizamos os seguintes passos:
 ## Realizado pelos alunos:
 * Leonardo de Oliveira Peralta - 726556
 * Renata Sarmet Smiderle Mendes - 726586
-* Rebeca 
+* Rebeca Lima Rocha - 486060
