@@ -2,7 +2,7 @@
 
 ## Instruções de instalação e execução
 
-Apesar de não ter sido informado no enunciado do trabalho, é necessário compilar o kernel com o compilador **gcc-5** u inferior, caso contrário não é possível compilar.
+Apesar de não ter sido informado no enunciado do trabalho, é necessário compilar o kernel com o compilador **gcc-5** ou inferior, caso contrário não é possível compilar.
 
 Para testar a implementação da syscall, realizamos os seguintes passos:
 
@@ -41,6 +41,6 @@ Para testar a implementação da syscall, realizamos os seguintes passos:
     $ ./test_register_message /caminhoDoArquivo/arquivo mensagem
     ```
 ## Realizado pelos alunos:
-* Leonardo de Oliveira Peralta
-* Renata Sarmet
-* Rebecca
+* Leonardo de Oliveira Peralta - 726556
+* Renata Sarmet Smiderle Mendes - 726586
+* Rebeca 
