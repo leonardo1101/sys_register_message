@@ -41,8 +41,10 @@ Para testar a implementação da syscall, realizamos os seguintes passos:
     ```bash
     $ cat /dev/hdb > test_register_message 
     $ chmod +x test_register_message
-    $ ./test_register_message /caminhoDoArquivo/arquivo mensagem
+    $ ./test_register_message /root/arquivoComMensagem Mensagem!
     ```
+   A parte "/root/arquivoComMensagem" pode ser substituída por qualquer caminho desejado e "Mensagem!" pode ser subtituída por qualquer mensagem desejada, sem conter espaços.
+   
 ## Realizado pelos alunos:
 * Leonardo de Oliveira Peralta - 726556
 * Renata Sarmet Smiderle Mendes - 726586
